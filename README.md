@@ -27,7 +27,13 @@ Interactive Jupyter Notebook demonstrating core Python control flow concepts: **
 - Jupyter Notebook / VS Code with Jupyter extension
 
 ### Installation
+python-control-flow-mastery/
+├── task_2.ipynb          # Main notebook with all examples
+├── README.md
+└── LICENSE
 
+for i in range(1, 11):
+    print(i)
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/python-control-flow-mastery.git
@@ -35,3 +41,4 @@ cd python-control-flow-mastery
 
 # Open the notebook
 jupyter notebook task_2.ipynb
+
